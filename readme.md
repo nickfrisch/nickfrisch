@@ -1,6 +1,3 @@
-# Hi!
-I'm Nick Frisch, currently a student at the University of Michigan working at Aumovio (formerly Continental) as a Data Analysis Intern!  I'm working towards a degree in Computer Engineering with a focus on embedded systems.  Hopefully I think up some personal projects to display here, other than a personal website with "Hello, World!"
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,7 +8,7 @@ I'm Nick Frisch, currently a student at the University of Michigan working at Au
 
 <h2 align="left">About me</h2>
 I'm working towards a degree in Computer Engineering with a focus on embedded systems.  I was a participant in FIRST Robotics for 7 years, gaining a love for autonomous routines, computer vision, and robot localization in that time.
-Hopefully I think up some personal projects to display here on my profile, other than the tried adn true "Hello, World!" on my personal website <href a src="http://www.nickfrisch.tech"/>
+Hopefully I think up some personal projects to display here on my profile, other than "Hello, World!" on my personal website <a href="[url](http://www.nickfrisch.tech)">nickfrisch.tech</a>
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
