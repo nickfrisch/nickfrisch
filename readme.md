@@ -7,12 +7,12 @@
 ###
 
 <h2 align="left">About me</h2>
-I'm working towards a degree in Computer Engineering with a focus on embedded systems.  I was a participant in FIRST Robotics for 7 years, gaining a love for autonomous routines, computer vision, and robot localization in that time.
-Hopefully I think up some personal projects to display here on my profile, other than "Hello, World!" on my personal website [nickfrisch.tech](http://www.nickfrisch.tech)
+I'm working towards a degree in Computer Engineering with a focus on embedded systems.  I was a participant in FIRST Robotics for 7 years and have been a volunteer for 7 years now, gaining a love for autonomous routines, computer vision, and robot localization in that time.
+Hopefully I think up some personal projects to display here on my profile, other than "Hello, World!" on my personal website <a href="https://nickfrisch.tech">nickfrisch.tech</a>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning C# <br>🎯 Goals: RTOS and personal projects<br></p>
 
 ###
 
@@ -21,21 +21,12 @@ Hopefully I think up some personal projects to display here on my profile, other
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
