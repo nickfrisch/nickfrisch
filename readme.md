@@ -12,7 +12,7 @@ Hopefully I think up some personal projects to display here on my profile, other
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning C# <br>🎯 Goals: RTOS and personal projects<br></p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning SQL <br>🎯 Goals: RTOS and personal projects<br></p>
 
 ###
 
